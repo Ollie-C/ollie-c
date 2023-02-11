@@ -5,9 +5,12 @@
 ### Hi there, I'm Ollie 👋👋👋 (in case the banner didn't give it away) 
 
 
-I'm a London-based junior fullstack developer with a love for nature and a passion for creating unique, seamless apps that hold altruistic value and that motivate and inspire. Lived in Japan, bit of a gamer, filter coffee, snowboarding, reading, movies....all that jazz (jazz too).
+I'm a London-based junior fullstack developer with a love for nature and a passion for creating unique, seamless apps that hold altruistic value and that motivate and inspire. I'm a seasoned Tokyo morning commuter, long-time gamer, filter coffee...drinker that loves all the good stuff: snowboarding, reading, movies etc.
 
-I've always loved solving problems and been good with computers and have recently put aside regrets of having not done CS at uni, realised age is just an int, and made a career change. There are real-word problems to be solved and there is no looking back now.  👀
+I've always loved solving problems and been good with computers and have realised age is just an int and shelved regrets of not having done CS at uni. I've been self taught for 2 years, recently completing a fullstack diploma at Brainstation. 
+
+Creative code is a superpower to educate and inspire people and hope that it can be used (and is being used) first and foremost to bring back balanced, sustainable living.
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=motijeo&count=1)
 (hope it's a banger)
