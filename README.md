@@ -9,7 +9,7 @@ I'm a London-based junior fullstack developer with a love for nature and a passi
 
 I've always loved solving problems and been good with computers and have realised age is just an int and shelved regrets of not having done CS at uni. I've been self taught for 2 years, recently completing a fullstack diploma at Brainstation. 
 
-Creative code is a superpower to educate and inspire people and hope that it can be used (and is being used) first and foremost to bring back balanced, sustainable living.
+Creative code is a superpower to educate and inspire people and would love to see it advance balanced, sustainable living.
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=motijeo&count=1)
@@ -18,7 +18,7 @@ Creative code is a superpower to educate and inspire people and hope that it can
 ## Bit more about me I guess? 
 
 - 🔭 I’m currently working on a social movie ranker / letterboxd clone in Next.js as I can't live without lists and I know there are others out there like me
-- 🌱 I’m currently learning about the benefits of TypeScript
+- 🌱 I’m currently learning about the benefits of TypeScript and type safety
 
 ### My building tools
 <div><h4>Languages</h4><div><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></div></div>
