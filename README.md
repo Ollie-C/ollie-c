@@ -9,13 +9,13 @@ I'm a London-based junior fullstack developer with a love for nature and a passi
 
 I've always loved solving problems and been good with computers and have realised age is just an int and shelved regrets of not having done CS at uni. I've been self taught for 2 years, recently completing a fullstack diploma at Brainstation. 
 
-Creative code is a superpower to educate and inspire people and would love to see it advance balanced, sustainable living.
+Creative code is a superpower to educate and inspire people and I would love to see it advance balanced, sustainable living.
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=motijeo&count=1)
 (hope it's a banger)
 
-## Bit more about me I guess? 
+## Bit more about me as a developer I guess? 
 
 - 🔭 I’m currently working on a social movie ranker / letterboxd clone in Next.js as I can't live without lists and I know there are others out there like me
 - 🌱 I’m currently learning about the benefits of TypeScript and type safety
