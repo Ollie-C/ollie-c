@@ -1,23 +1,15 @@
 [![MasterHead](https://raw.githubusercontent.com/Ollie-C/ollie-c/main/banner.png)](https://github.com/Ollie-C)
 
+👋 I'm a London-based junior frontend developer with a love for nature and a passion for creating unique, seamless apps that hold altruistic value and that motivate and inspire. I'm a seasoned Tokyo morning commuter, long-time gamer, filter coffee...drinker that loves all the good stuff: snowboarding, reading, movies etc.
 
-
-### Hi there, I'm Ollie 👋👋 (in case the banner didn't give it away) 
-
-
-I'm a London-based junior fullstack developer with a love for nature and a passion for creating unique, seamless apps that hold altruistic value and that motivate and inspire. I'm a seasoned Tokyo morning commuter, long-time gamer, filter coffee...drinker that loves all the good stuff: snowboarding, reading, movies etc.
-
-I've realised age is just an int and shelved regrets of not having done CS at university. I've been self taught for 2 years, recently completing a fullstack diploma at Brainstation. 
-
-Creative code is a superpower to educate and inspire people and I would love to see it advance balanced, sustainable living.
-
+Creative code is a superpower to educate and inspire people and I would love to see it advance standards of living including enabling a balanced, sustainable living.
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=motijeo&count=1)
 (hope it's a banger)
 
 ## Bit more about me as a developer I guess? 
 
-- 🔭 I’m currently working on a social movie ranker / letterboxd clone in Next.js as I can't live without lists and I know there are others out there like me
+- 🔭 I’m currently working on a social movie ranker in Next.js as I can't live without lists and movies in lists and I know there are others out there like me (I hope)
 - 🌱 I’m currently learning about the benefits of TypeScript and type safety
 
 ### My building tools
@@ -31,13 +23,10 @@ Creative code is a superpower to educate and inspire people and I would love to 
 
 <div><h4>Everything else</h4><div><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></div></div>
 
+![Ollie-C's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollie-c&theme=monokai&show_icons=true&hide=stars,prs,issues)
 
 ## Get in touch (?)
 
 iio.olivercross@gmail.com
 
-<p align="left">
-<a href="https://www.linkedin.com/in/oliver-cross" target="blank"><img color="#fff" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-</p>
 
-![Ollie-C's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollie-c&theme=monokai&show_icons=true&hide=stars,prs,issues)
