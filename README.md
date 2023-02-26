@@ -12,18 +12,17 @@ Creative code is a superpower to educate and inspire people and I would love to 
 - 🔭 I’m currently working on a social movie ranker in Next.js as I can't live without lists and movies in lists and I know there are others out there like me (I hope)
 - 🌱 I’m currently learning about the benefits of TypeScript and type safety
 
-### My building tools
-<div><h4>Languages</h4><div><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></div></div>
+### These don't exactly define who I am, but they definitely help me build cool apps
 
-<div><h4>Frameworks & Libraries</h4><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></div>
 
-<div><h4>The Iconless</h4>Hygraph, Sanity, Supabase, GCP</div>
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,0,nodejs,0,0,0,vercel,firebase,jest&perline=12)](https://skillicons.dev)
 
-<div><h4>Databases</h4><div><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></div></div>
+[![My Skills](https://skillicons.dev/icons?i=ts,0,py,0,express,0,0,0,0,prisma,0&perline=12)](https://skillicons.dev)
 
-<div><h4>Everything else</h4><div><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></div></div>
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,graphql,0,supabase,mysql,sass,0,gcp,photoshop,illustrator&perline=12)](https://skillicons.dev)
 
-![Ollie-C's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollie-c&theme=monokai&show_icons=true&hide=stars,prs,issues)
+You may also see me with Sanity, Hygraph, MongoDB, Figma, Trello and Jira . . .
+
 
 ## Get in touch (?)
 
