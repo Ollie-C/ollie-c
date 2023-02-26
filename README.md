@@ -2,7 +2,7 @@
 
 👋 I'm a London-based junior frontend developer with a love for nature and a passion for creating unique, seamless apps that hold altruistic value and that motivate and inspire. I'm a seasoned Tokyo morning commuter, long-time gamer, filter coffee...drinker that loves all the good stuff: snowboarding, reading, movies etc.
 
-Creative code is a superpower to educate and inspire people and I would love to see it advance standards of living including enabling a balanced, sustainable living.
+Creative code is a superpower to educate and inspire people and I would love to see it advance standards of living including helping to enable balanced, sustainable living.
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=motijeo&count=1)
 (hope it's a banger)
