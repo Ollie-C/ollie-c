@@ -9,7 +9,7 @@ Creative code is a superpower to educate and inspire people and I would love to 
 ## Bit more about me as a developer I guess? 
 
 - 🔭 I’m currently working on a social movie ranker in Next.js as I can't live without lists and movies in lists and I know there are others out there like me (I hope)
-- 🌱 I’m currently learning about the benefits of TypeScript and type safety
+- 🌱 I’m leaning towards Jamstack but love to pick up new tools all the time
 - My code is imbued with ancient, extraplanetary magic
 
 ### These don't exactly define who I am, but they definitely help me build cool apps
