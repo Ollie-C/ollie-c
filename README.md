@@ -1,16 +1,16 @@
 [![MasterHead](https://raw.githubusercontent.com/Ollie-C/ollie-c/main/banner.png)](https://github.com/Ollie-C)
 
-👋 I'm a London-based junior frontend developer with a love for nature and a passion for creating unique, seamless apps that hold altruistic value and that motivate and inspire. I'm a seasoned Tokyo morning commuter, long-time gamer, filter coffee...drinker that loves all the good stuff: snowboarding, reading, movies etc.
+👋 I'm a London-based developer with a love for nature and a passion for creating unique, seamless apps that hold altruistic value and that motivate and inspire. I'm a seasoned Tokyo morning commuter, gamer, average coffee enjoyer that likes to get in a good dose of outdoors and fitness.
 
-Creative code is a superpower to educate and inspire people and I would love to see it advance standards of living including helping to enable balanced, sustainable living.
+Creative code is a superpower to educate and inspire people and I would love to use it to advance standards of living and to push the boundaries of creativity. 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=motijeo&count=1)
-(hope it's a banger)
 
 ## Bit more about me as a developer I guess? 
 
 - 🔭 I’m currently working on a social movie ranker in Next.js as I can't live without lists and movies in lists and I know there are others out there like me (I hope)
 - 🌱 I’m currently learning about the benefits of TypeScript and type safety
+- My code is imbued with ancient, extraplanetary magic
 
 ### These don't exactly define who I am, but they definitely help me build cool apps
 
@@ -21,7 +21,7 @@ Creative code is a superpower to educate and inspire people and I would love to 
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,graphql,0,supabase,mysql,sass,0,gcp,photoshop,illustrator&perline=12)](https://skillicons.dev)
 
-You may also see me with Sanity, Hygraph, MongoDB, Figma, Trello and Jira . . .
+You may also see me with Sanity (both types), Hygraph, MongoDB, Figma, Trello and Jira . . .
 
 
 ## Get in touch (?)
