@@ -1,16 +1,17 @@
 [![MasterHead](https://raw.githubusercontent.com/Ollie-C/ollie-c/main/banner.png)](https://github.com/Ollie-C)
 
-👋 I'm a London-based developer with a love for nature and a passion for creating unique, seamless apps that hold altruistic value and that motivate and inspire. I'm a seasoned Tokyo morning commuter, gamer, average coffee enjoyer that likes to get in a good dose of outdoors and fitness.
+<p align="center">👋 I'm a London-based developer with a passion for creating unique, seamless apps that hold altruistic value and that motivate and inspire. I am seasoned Tokyo morning commuter, long-time gamer and enjoyer of scenic mountains</p>
 
-Creative code is a superpower to educate and inspire people and I would love to use it to advance standards of living and to push the boundaries of creativity. 
+<p align="center">Creative code is a superpower to educate and inspire people and want it to be used to bring back balanced, sustainable living and to push the boundaries of creativity</p>
+
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=motijeo&count=1)
 
-## Bit more about me as a developer I guess? 
+### Where is my coding going? 
 
-- 🔭 I’m currently working on a social movie ranker in Next.js as I can't live without lists and movies in lists and I know there are others out there like me (I hope)
-- 🌱 I’m leaning towards Jamstack but love to pick up new tools all the time
-- My code is imbued with ancient, extraplanetary magic
+- 🔭 Currently working on: a <a href="https://github.com/Ollie-C/myvu" target="_blank" rel="noreferrer">social movie ranker</a> in Next, TypeScript and GraphQL. 
+- 🌱 Would love to try: Svelte and SvelteKit
 
 ### These don't exactly define who I am, but they definitely help me build cool apps
 
