@@ -2,9 +2,6 @@
 
 <p align="center">👋 I'm a London-based developer with a passion for creating unique, seamless apps that hold altruistic value and that motivate and inspire. I am seasoned Tokyo morning commuter, long-time gamer and enjoyer of scenic mountains</p>
 
-<p align="center">Creative code is a superpower to educate and inspire people and want it to be used to bring back balanced, sustainable living and to push the boundaries of creativity</p>
-
-
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=motijeo&count=1)
 
