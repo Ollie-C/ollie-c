@@ -2,6 +2,13 @@
 
 <p align="center">👋 I'm a London-based developer with a passion for creating unique, seamless apps that hold altruistic value and that motivate and inspire. I am seasoned Tokyo morning commuter, long-time gamer and enjoyer of scenic mountains</p>
 
+### Where am I [update 03/24]? 
+
+As of April 2023, I began working full-time as a software developer for an awesome creative agency. My focus turned to the job for a good period of time and the team there uses Gitlab. Myvu (my side project) had to be put on hold. The moment I found my feet (and some time at the weekend), my son was born into the world. Now my focus is on him. (As you read this, you may notice my most recent Spotify song is a white noise track, this is not related to getting him to sleep at night, I am just a big of the white noise scene in music)
+
+As I find a balance between work and life (I am VERY close (I think)), I will work my way back here onto to some more cool dev projects. Watch this space. 
+
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=motijeo&count=1)
 
