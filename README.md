@@ -1,12 +1,21 @@
 [![MasterHead](https://raw.githubusercontent.com/Ollie-C/ollie-c/main/banner.png)](https://github.com/Ollie-C)
 
-<p align="center">👋 I'm a London-based developer with a passion for creating unique, seamless apps that hold altruistic value and that motivate and inspire. I am seasoned Tokyo morning commuter, long-time gamer and enjoyer of scenic mountains</p>
+<p align="center">👋 I'm a London-based developer with a passion for creating unique, seamless apps that hold altruistic value and that motivate and inspire. I am a seasoned Tokyo morning commuter, long-time gamer and enjoyer of mountains</p>
 
-### Where am I [update 03/24]? 
+### Where am I [update 08/24]? 
 
-As of April 2023, I began working full-time as a software developer for an awesome creative agency. My focus turned to the job for a good period of time and the team there uses Gitlab. Myvu (my side project) had to be put on hold. The moment I found my feet (and some time at the weekend), my son was born into the world. Now my focus is on him. (As you read this, you may notice my most recent Spotify song is a white noise track, this is not related to getting him to sleep at night, I am just a big of the white noise scene in music)
+As of April 2023, I began working full-time as a software developer for an awesome creative agency. My focus turned to the job for a good period of time and the team there uses Gitlab. Myvu (my side project) had to be put on hold. The moment I found my feet (and some time at the weekend), my son was born into the world. 
 
-As I find a balance between work and life (I am VERY close (I think)), I will work my way back here onto to some more cool dev projects. Watch this space. 
+He's now 8 months old and has sent me into overdrive (25 hours a day, 26 of which are spent looking after him) but for whatever reason, life is starting to settle again. 
+
+My work life has made me a better coder. Having said that, yesterday I found out the hard way why we should not rush our git add . + git commit routine because it creates the mythical "git commit ." , destroyer of souls, negater of productivity. 
+
+Somehow I have found time and with that time I'll be restarting Myvu (a movie ranker app). After that I have another project, currently with the design team (my wife), that I'd like to give a go. One for tea enthusiasts. 
+
+Watch this space. 
+
+
+              SPACE
 
 
 
@@ -15,7 +24,7 @@ As I find a balance between work and life (I am VERY close (I think)), I will wo
 ### Where is my coding going? 
 
 - 🔭 Currently working on: a <a href="https://github.com/Ollie-C/myvu" target="_blank" rel="noreferrer">social movie ranker</a> in Next, TypeScript and GraphQL. 
-- 🌱 Would love to try: Svelte and SvelteKit
+- 🌱 Learning: Symfony, React Query
 
 ### These don't exactly define who I am, but they definitely help me build cool apps
 
