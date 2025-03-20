@@ -2,17 +2,15 @@
 
 <p align="center">👋 I'm a London-based developer with a passion for creating unique, seamless apps that hold altruistic value and that motivate and inspire. I am a seasoned Tokyo morning commuter, long-time gamer and enjoyer of mountains</p>
 
-### Where am I [update 08/24]? 
+### Where am I [update 20/03/2025]? 
 
-As of April 2023, I began working full-time as a software developer for an awesome creative agency. My focus turned to the job for a good period of time and the team there uses Gitlab. Myvu (my side project) had to be put on hold. The moment I found my feet (and some time at the weekend), my son was born into the world. 
+As of April 2023, I became a full-time software developer starting out at a fun creative agency and then moving on to do my own thing. We used Gitlab so I don't have as many green squares as I would like on my Github profile. Having recently found my footing as a father, I am now using my newly acquired 30 minutes free time each day to work on some personal projects. 
 
-He's now 8 months old and has sent me into overdrive (25 hours a day, 26 of which are spent looking after him) but for whatever reason, life is starting to settle again. 
+I put my Myvu app on hold to experiment a bit with the most recent AI tools and have built myself a productivity app - one with a simple interface - that will help me get back into a routine. 
 
-My work life has made me a better coder. Having said that, yesterday I found out the hard way why we should not rush our git add . + git commit routine because it creates the mythical "git commit ." , destroyer of souls, negater of productivity. 
+So cookie-cutter projects and AI-assisted coding - **how very unexciting** I hear you say. Well, these are slowly making way for better things. As well as Myvu, there is also a tea-themed app in the pipeline - a joint venture with the wife and I as we prepare for life again in Japan. 
 
-Somehow I have found time and with that time I'll be restarting Myvu (a movie ranker app). After that I have another project, currently with the design team (my wife), that I'd like to give a go. One for tea enthusiasts. 
-
-Watch this space. 
+Absolutely more to come. Watch this space. 
 
 
               SPACE
@@ -24,7 +22,7 @@ Watch this space.
 ### Where is my coding going? 
 
 - 🔭 Currently working on: a <a href="https://github.com/Ollie-C/myvu" target="_blank" rel="noreferrer">social movie ranker</a> in Next, TypeScript and GraphQL. 
-- 🌱 Learning: Symfony, React Query
+- 🌱 Learning: React Query, Three.js, a bit of theory 
 
 ### These don't exactly define who I am, but they definitely help me build cool apps
 
@@ -35,7 +33,24 @@ Watch this space.
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,graphql,0,supabase,mysql,sass,0,gcp,photoshop,illustrator&perline=12)](https://skillicons.dev)
 
-You may also see me with Sanity (both types), Hygraph, MongoDB, Figma, Trello and Jira . . .
+You may also see me with Sanity (both types) and the following:
+* Hygraph
+* MongoDB
+* Figma
+* Trello
+* Hubspot
+* Tailwind
+* Cursor
+* Electron
+* Capacitor
+* Aframe
+
+Also dabbled in the following: 
+* MongoDB
+* PHP and Symfony
+* Wordpress
+  
+How relevant are these lists? Not very. I guess it's good to see how far I've come. 
 
 
 ## Get in touch (?)
