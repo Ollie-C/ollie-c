@@ -15,7 +15,7 @@ Absolutely more to come. Watch this space.
 
 ### Where is my coding going? 
 
-- 🔭 Currently working on: Hibi, Myvu, a svelte project
+- 🔭 Currently working on: [Hibi](hi-bi.app), Myvu, a svelte project
 - 🌱 Learning: Svelte, Three.js 
 
 ### These don't exactly define who I am, but they definitely help me build cool apps
