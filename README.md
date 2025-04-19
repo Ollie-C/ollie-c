@@ -1,14 +1,8 @@
 [![MasterHead](https://raw.githubusercontent.com/Ollie-C/ollie-c/main/banner.png)](https://github.com/Ollie-C)
 
-<p align="center">👋 I'm a London-based developer with a passion for creating unique, seamless apps that hold altruistic value and that motivate and inspire. I am a seasoned Tokyo morning commuter, long-time gamer and enjoyer of mountains</p>
+### Where am I as of [19/04/2025]? 
 
-### Where am I [update 20/03/2025]? 
-
-As of April 2023, I became a full-time software developer starting out at a fun creative agency and then moving on to do my own thing. We used Gitlab so I don't have as many green squares as I would like on my Github profile. Having recently found my footing as a father, I am now using my newly acquired 30 minutes free time each day to work on some personal projects. 
-
-I put my Myvu app on hold to experiment a bit with the most recent AI tools and have built myself a productivity app - one with a simple interface - that will help me get back into a routine. 
-
-So cookie-cutter projects and AI-assisted coding - **how very unexciting** I hear you say. Well, these are slowly making way for better things. As well as Myvu, there is also a tea-themed app in the pipeline - a joint venture with the wife and I as we prepare for life again in Japan. 
+I am currently freelancing, based in London and due to move back to Japan in September. 
 
 Absolutely more to come. Watch this space. 
 
@@ -17,12 +11,12 @@ Absolutely more to come. Watch this space.
 
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=motijeo&count=1)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=motijeo&count=3)
 
 ### Where is my coding going? 
 
-- 🔭 Currently working on: a <a href="https://github.com/Ollie-C/myvu" target="_blank" rel="noreferrer">social movie ranker</a> in Next, TypeScript and GraphQL. 
-- 🌱 Learning: React Query, Three.js, a bit of theory 
+- 🔭 Currently working on: Hibi, Myvu, a svelte project
+- 🌱 Learning: Svelte, Three.js 
 
 ### These don't exactly define who I am, but they definitely help me build cool apps
 
@@ -49,11 +43,8 @@ Also dabbled in the following:
 * MongoDB
 * PHP and Symfony
 * Wordpress
-  
-How relevant are these lists? Not very. I guess it's good to see how far I've come. 
 
-
-## Get in touch (?)
+## Say hi (?)
 
 iio.olivercross@gmail.com
 
