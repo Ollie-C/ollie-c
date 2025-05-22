@@ -11,7 +11,7 @@ Absolutely more to come. Watch this space.
 
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=motijeo&count=3)
+
 
 ### Where is my coding going? 
 
