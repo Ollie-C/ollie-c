@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/Ollie-C/ollie-c/main/banner.png)](https://github.com/Ollie-C)
 
-### Where am I as of [19/04/2025]? 
+### Where am I as of [10/06/2025]? 
 
 I am currently freelancing, based in London and due to move back to Japan in September. 
 
