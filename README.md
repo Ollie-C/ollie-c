@@ -15,8 +15,10 @@ Absolutely more to come. Watch this space.
 
 ### Where is my coding going? 
 
-- 🔭 Currently working on: [Hibi](hi-bi.app), Myvu, a svelte project
-- 🌱 Learning: Svelte, Three.js 
+- ⭐ I've just released my productivity app, **Hibi**, onto the Play Store to test the waters. It's available on web and android! Check it out [Android](https://play.google.com/store/apps/details?id=com.orix.hibi), [Web](hi-bi.app)
+- 🔭 Currently working on: [Myvu](https://github.com/Ollie-C/myvu-3), a svelte project
+- 🌱 Learning: Svelte, Three.js
+- ❔ Keen to learn: Either Go or Rust, eventually both? 
 
 ### These don't exactly define who I am, but they definitely help me build cool apps
 
@@ -40,12 +42,14 @@ You may also see me with Sanity (both types) and the following:
 * Aframe
 
 Also dabbled in the following: 
-* MongoDB
 * PHP and Symfony
 * Wordpress
+* Svelte and SvelteKit
+* Astro
 
 ## Say hi (?)
 
-iio.olivercross@gmail.com
+Email: iio.olivercross@gmail.com
 
+Portfolio: [ori-x](https://ori-x.dev/)
 
