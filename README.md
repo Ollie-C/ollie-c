@@ -1,8 +1,8 @@
 [![MasterHead](https://raw.githubusercontent.com/Ollie-C/ollie-c/main/banner.png)](https://github.com/Ollie-C)
 
-### Where am I as of [10/06/2025]? 
+### Where am I as of [30/09/2025]? 
 
-I am currently freelancing, based in London and due to move back to Japan in September. 
+I am currently freelancing and based in Japan.
 
 Absolutely more to come. Watch this space. 
 
@@ -16,9 +16,9 @@ Absolutely more to come. Watch this space.
 ### Where is my coding going? 
 
 - ⭐ I've just released my productivity app, **Hibi**, onto the Play Store to test the waters. It's available on web and android! Check it out [Android](https://play.google.com/store/apps/details?id=com.orix.hibi), [Web](hi-bi.app)
-- 🔭 Currently working on: [Myvu](https://github.com/Ollie-C/myvu-3), a svelte project
+- 🔭 Currently working on: [Myvu](https://github.com/Ollie-C/myvu-3), a React+TypeScript+Supabase social movie ranker
 - 🌱 Learning: Svelte, Three.js
-- ❔ Keen to learn: Either Go or Rust, eventually both? 
+- ❔ Keen to learn: Go or Rust and Vue
 
 ### These don't exactly define who I am, but they definitely help me build cool apps
 
