@@ -16,7 +16,7 @@ Absolutely more to come. Watch this space.
 ### Where is my coding going? 
 
 - ⭐ I've just released my productivity app, **Hibi**, onto the Play Store to test the waters. It's available on web and android! Check it out [Android](https://play.google.com/store/apps/details?id=com.orix.hibi), [Web](hi-bi.app)
-- 🔭 Currently working on: [Myvu](https://github.com/Ollie-C/myvu-3), a React+TypeScript+Supabase social movie ranker
+- 🔭 Currently working on: [Myvu](https://github.com/Ollie-C/myvu-movies), a React+TypeScript+Supabase social movie ranker
 - 🌱 Learning: Svelte, Three.js
 - ❔ Keen to learn: Go or Rust and Vue
 
