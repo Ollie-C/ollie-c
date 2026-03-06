@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/Ollie-C/ollie-c/main/banner.png)](https://github.com/Ollie-C)
 
-### Where am I as of [23/12/2025]? 
+### Where am I as of [06/03/2026]? 
 
 I am currently freelancing and based in Japan.
 
@@ -13,12 +13,13 @@ Absolutely more to come. Watch this space.
 
 
 
-### Where is my coding going? 
+### What am I working on? 
 
+- 🔭 Current personal project: **Myvu** - a movie ranking app built in SvelteKit and Phoenix. 
 - ⭐ I've released my productivity app, **Hibi**, onto the Play Store to test the waters. It's available on web and android! Check it out [Android](https://play.google.com/store/apps/details?id=com.orix.hibi), [Web](hi-bi.app)
-- 🔭 Currently working on: two personal projects side-by-side. The first is built in SvelteKit and Phoenix, the second in React, tRPC and Supabase. 
-- 🌱 Learning: Elixir, Phoenix.
-- ❔ Keen to learn: Will definitely take another look at Astro at some point. Then a bit more 3D work and may even dip my toes in game dev? 
+-  Currently working on: two personal projects side-by-side. The first is built in SvelteKit and Phoenix, the second in React, tRPC and Supabase. 
+- 🌱 Learning: Phoenix, FastAPI, AI
+- ❔ Keen to learn: Go/Rust and then some day, game dev?
 
 ### These don't exactly define who I am, but they definitely help me build cool apps (this really needs updating but I just can't be bothered right now!)
 
