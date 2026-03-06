@@ -23,29 +23,33 @@ Absolutely more to come. Watch this space.
 ### These don't exactly define who I am, but they definitely help me build cool apps (this really needs updating but I just can't be bothered right now!)
 
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,0,nodejs,0,0,0,vercel,firebase,jest&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,py,0,nodejs,0,0,0,svelte,express,fastapi&perline=12)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,0,py,0,express,0,0,0,0,prisma,0&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,0,graphql,0,nextjs,0,0,0,0,postgres,0&perline=12)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,graphql,0,supabase,mysql,sass,0,gcp,photoshop,illustrator&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,tailwind,sass,0,supabase,docker,sentry,0,django,elixir,figma&perline=12)](https://skillicons.dev)
 
-You may also see me with Sanity (both types) and the following:
-* Hygraph
-* MongoDB
-* Figma
-* Trello
-* Hubspot
-* Tailwind
-* Cursor
-* Electron
-* Capacitor
+Nobody:  
+Me: But wait, there's more: 
 * Aframe
+* Capacitor
+* Cursor
+* Django
+* Electron
+* Framer Motion
+* Hygraph
+* Laravel
+* Phoenix
+* Sanity
+* SvelteKit
+* Symfony
+* Three.js
+* Vite
+* Vitest
+* Zod
+* Zustand
 
-Also dabbled in the following: 
-* PHP and Symfony
-* Wordpress
-* Svelte and SvelteKit
-* Astro
+Obviously I need to write something like "These are just tools - I also write clean, accessible, TDD, mobile-first, production-grade, DRY, well-documented code" but I could be lying and you'd never know, so let's skip that.
 
 Drop me a message if you think we're on the same wavelength and you'd like to work on something together!
 
