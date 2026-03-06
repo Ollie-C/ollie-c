@@ -32,12 +32,14 @@ Absolutely more to come. Watch this space.
 Nobody:  
 Me: But wait, there's more: 
 * Aframe
+* AWS (S3, Cloudfront)
 * Capacitor
 * Cursor
 * Django
 * Electron
 * Framer Motion
 * Hygraph
+* Kubernetes
 * Laravel
 * Phoenix
 * Postman
