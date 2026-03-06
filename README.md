@@ -15,9 +15,8 @@ Absolutely more to come. Watch this space.
 
 ### What am I working on? 
 
-- 🔭 Current personal project: **Myvu** - a movie ranking app built in SvelteKit and Phoenix. 
+- 🔭 Current passion project: **Myvu** - a movie ranking app built in SvelteKit and Phoenix. 
 - ⭐ I've released my productivity app, **Hibi**, onto the Play Store to test the waters. It's available on web and android! Check it out [Android](https://play.google.com/store/apps/details?id=com.orix.hibi), [Web](hi-bi.app)
--  Currently working on: two personal projects side-by-side. The first is built in SvelteKit and Phoenix, the second in React, tRPC and Supabase. 
 - 🌱 Learning: Phoenix, FastAPI, AI
 - ❔ Keen to learn: Go/Rust and then some day, game dev?
 
