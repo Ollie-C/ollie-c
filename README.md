@@ -20,7 +20,7 @@ Absolutely more to come. Watch this space.
 - 🌱 Learning: Phoenix, FastAPI, AI
 - ❔ Keen to learn: Go/Rust and then some day, game dev?
 
-### These don't exactly define who I am, but they definitely help me build cool apps (this really needs updating but I just can't be bothered right now!)
+### These don't exactly define who I am, but they definitely help me build cool apps
 
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,py,0,nodejs,0,0,0,svelte,express,fastapi&perline=12)](https://skillicons.dev)
