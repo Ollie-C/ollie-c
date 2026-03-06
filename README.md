@@ -27,7 +27,7 @@ Absolutely more to come. Watch this space.
 
 [![My Skills](https://skillicons.dev/icons?i=astro,0,graphql,0,nextjs,0,0,0,0,postgres,0&perline=12)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,tailwind,sass,0,supabase,docker,sentry,0,django,elixir,figma&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,tailwind,sass,0,supabase,docker,sentry,0,jest,elixir,figma&perline=12)](https://skillicons.dev)
 
 Nobody:  
 Me: But wait, there's more: 
@@ -40,6 +40,7 @@ Me: But wait, there's more:
 * Hygraph
 * Laravel
 * Phoenix
+* Postman
 * Sanity
 * SvelteKit
 * Symfony
